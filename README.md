@@ -13,7 +13,7 @@ This is a polished, lightweight open source Finance Tracker that you can use for
 - Transactions
 - Upcoming Bills to track your bill payments
 
-[App Preview]("images\ss2.png")
+[App Preview](images/ss2.png)
 
 ## Instructions on how to run
 
@@ -28,7 +28,7 @@ There are a few things you need to keep in mind if you want to run this applicat
 
 - Do not take the executable outside of the folder. It needs to be in the same file directory as the build files, or it won't run.
 - Do not actually run the DLL files or the like, as stated earlier. If you just want to run the app, only worry about the actual exectuable.
-  [File to look for:]("images\ss1.png")
+  [File to look for:](images/ss1.png)
 
 ## How to tweak this for your own uses
 
