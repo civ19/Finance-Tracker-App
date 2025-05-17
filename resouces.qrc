@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>fonts/CalSans-Regular.ttf</file>
+        <file>fonts/Roboto-ExtraBold.ttf</file>
+        <file>502-5023267_itpalooza-is-a-not-for-profit-community-driven.png</file>
+        <file>image_2025-05-10_173824513-removebg-preview.png</file>
+        <file>images-removebg-preview.png</file>
+        <file>Montserrat-ExtraBold.ttf</file>
+        <file>fonts/Roboto-Bold.ttf</file>
+        <file>fonts/Montserrat-Bold.ttf</file>
+        <file>fonts/Quicksand-Regular.ttf</file>
+        <file>fonts/Rubik-Regular.ttf</file>
+        <file>fonts/VarelaRound-Regular.ttf</file>
+    </qresource>
+</RCC>
