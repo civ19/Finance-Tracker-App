@@ -1,6 +1,6 @@
 # Finance-Tracker-App
 
-## Full Finance Tracker App with C++ and Qt Framework
+## GUI Finance Tracker App with C++ and Qt Framework
 
 This is a polished, lightweight open source Finance Tracker that you can use for tracking your expenses. Features of this app include:
 - Dynamic Pie Chart for Wants, Needs and Expenses that changes with new values
