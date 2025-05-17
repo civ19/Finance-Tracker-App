@@ -18,7 +18,7 @@ This is a polished, lightweight open source Finance Tracker that you can use for
 ## Instructions on how to run
 
 There are a few things you need to keep in mind if you want to run this application successfully, with no headaches. Here's a step by step guide on how to make sure it runs properly:
-- For the actual project, don't just download the source code. Navigate to the Releases section, download the zip folder, and extract it.
+- For the actual project, don't just download the source code. You need to navigate to the Releases section, download the zip folder for the latest version, and extract it for it to work.
 - Inside the folder, you will see a folder called `Finance_Trackerr`. When you click it, you will see a bunch of build files, `.o` files, `.dll` files, etc. Don't click any of those since they just help build the app.
 - What you need to click is the `executable`, or 'Application' file. You will find this while scrolling down a bit. That's the actual app, and you will be able to run it like normal.
 - As for running the features themselves(such as changing the graph, adding bills etc.), it's rather self explanatory when you open the app. If you want to add a bill, transaction or savings goal, there will be an add button. If you want to update the graph, you can change the values of it in the flex box below it.
