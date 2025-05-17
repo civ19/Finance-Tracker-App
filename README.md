@@ -42,4 +42,5 @@ Since there's a lot you can do with this app, and alot you can add such as addin
 ## "What if I find a bug?"
 If you found any bugs, crashes, or overall any inconviences with this project, please submit an issue with the issues tap on this repository. In case you want to submit a pull request with a fix for it, reference the issue you created while you're at it!
 
+And lastly, if you somehow liked it, feel free to become a sponsor.
   
