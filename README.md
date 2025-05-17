@@ -37,6 +37,7 @@ Since there's a lot you can do with this app, and alot you can add such as addin
 **Instructions on how to edit:**
 - First, you'll have to [install Qt](https://www.qt.io/download-qt-installer), then the app will basically guide you on the process. If you get confused, you can watch [this tutorial](https://www.youtube.com/watch?v=OoVNt-KJ96w) on how to set it up.
 - After that, all you have to do is open the `.pro` file(Qt project file), and that's it! You will be able to edit, run, and debug the code for yourself.
+- When you do edit the code in qt, do **NOT** put the code in the `main.cpp` file. Put it in the `financetracker.cpp` file.
 
 ## "What if I find a bug?"
 If you found any bugs, crashes, or overall any inconviences with this project, please submit an issue with the issues tap on this repository. In case you want to submit a pull request with a fix for it, reference the issue you created while you're at it!
