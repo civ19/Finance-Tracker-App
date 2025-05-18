@@ -23,8 +23,9 @@ There are a few things you need to keep in mind if you want to run this applicat
 - What you need to click is the `executable`, or 'Application' file. You will find this while scrolling down a bit. That's the actual app, and you will be able to run it like normal.
 - As for running the features themselves(such as changing the graph, adding bills etc.), it's rather self explanatory when you open the app. If you want to add a bill, transaction or savings goal, there will be an add button. If you want to update the graph, you can change the values of it in the flex box below it.
 - **Easter egg:** Not much, but if you change the values of the pie chart once, your XP and level goes up! The buttons and text also change color when you hover over them.
+- *Use app in fullscreen for the best experience.*
 
-## What to *not* do
+## What you *shouldn't* do
 
 - Do not take the executable outside of the folder. It needs to be in the same file directory as the build files, or it won't run.
 - Do not actually run the DLL files or the like, as stated earlier. If you just want to run the app, only worry about the actual exectuable.
